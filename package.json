@@ -1,0 +1,27 @@
+{
+  "name": "test-mocha",
+  "version": "1.0.0",
+  "description": "Basic Chai Mocha setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dvhthegreat/test-mocha.git"
+  },
+  "keywords": [
+    "mocha",
+    "chai"
+  ],
+  "author": "Dimitri Harding",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dvhthegreat/test-mocha/issues"
+  },
+  "homepage": "https://github.com/dvhthegreat/test-mocha",
+  "dependencies": {
+    "chai": "^2.3.0",
+    "mocha": "^2.2.5"
+  }
+}
